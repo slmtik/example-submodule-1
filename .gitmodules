@@ -1,0 +1,6 @@
+[submodule "external/external-repo1"]
+	path = external/external-repo1
+	url = https://github.com/slmtik/example-submodule
+[submodule "external/external-repo2"]
+	path = external/external-repo2
+	url = https://github.com/slmtik/example-submodule
