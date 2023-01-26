@@ -1,3 +1,3 @@
 # example-submodule-1
 Demo repository
-Editing a submodule
+Editing a submoduleEditing a submodule
